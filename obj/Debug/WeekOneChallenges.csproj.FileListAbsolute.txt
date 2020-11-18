@@ -1,0 +1,7 @@
+D:\ElevenFiftyProjects\WeekOneChallenges\bin\Debug\WeekOneChallenges.exe.config
+D:\ElevenFiftyProjects\WeekOneChallenges\bin\Debug\WeekOneChallenges.exe
+D:\ElevenFiftyProjects\WeekOneChallenges\bin\Debug\WeekOneChallenges.pdb
+D:\ElevenFiftyProjects\WeekOneChallenges\obj\Debug\WeekOneChallenges.csprojAssemblyReference.cache
+D:\ElevenFiftyProjects\WeekOneChallenges\obj\Debug\WeekOneChallenges.csproj.CoreCompileInputs.cache
+D:\ElevenFiftyProjects\WeekOneChallenges\obj\Debug\WeekOneChallenges.exe
+D:\ElevenFiftyProjects\WeekOneChallenges\obj\Debug\WeekOneChallenges.pdb
