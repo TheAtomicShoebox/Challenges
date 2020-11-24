@@ -11,7 +11,13 @@ namespace WeekOneChallenges
         TimeSpan noon = new TimeSpan(12, 0, 0);
         TimeSpan eve = new TimeSpan(18, 0, 0);
         TimeSpan night = new TimeSpan(22, 0, 0);
-        TimeSpan now = DateTime.Now.TimeOfDay;
+        TimeSpan now;
+
+        public Greeter()
+        {
+            now = DateTime.Now.TimeOfDay;
+        }
+
         public void Greets(string name)
         {
             Console.WriteLine($"Hello {name}");
@@ -24,6 +30,7 @@ namespace WeekOneChallenges
 
         public void TimeGreets(string name)
         {
+            now = DateTime.Now.TimeOfDay;
             if (now < noon)
             {
                 Console.WriteLine($"Good morning, {name}!");
