@@ -103,6 +103,27 @@ namespace WeekOneChallenges
             greet.Farewell("Adam");
             greet.TimeGreets("Adam");
             Console.ReadLine();
+
+
+            //Week 4
+            Samsung samsung = new Samsung()
+            {
+                BluetoothCapable = true,
+                Height = 8,
+                ID = "21198621986",
+                OS = "Android Q",
+                Resolution = 2160
+            };
+
+            Apple apple = new Apple()
+            {
+                BluetoothCapable = true,
+                Height = 8,
+                ID = "216821684621",
+                OS = "iOS 12",
+                Resolution = 2160,
+                IsBad = true
+            };
         }
     }
 }
